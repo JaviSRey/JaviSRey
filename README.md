@@ -14,11 +14,11 @@ Este es mi horario de clases:)
 | Hora | Lunes                              | Martes                             | Miercoles                          | Jueves                             | Viernes                           |
 |------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|-----------------------------------|
 | 1PM  | Administración de base de datos    | Administración de base de datos    | Administración de base de datos    | Administración de base de datos    | Administración de base de datos   |
-| 2PM  | Lenguaje de interfaz               | Lenguaje de interfaz               | Lenguaje de interfaz               | Lenguaje de interfaz               | Lenguaje de interfaz              |
+| 2PM  | Lenguaje de interfaz               | Lenguaje de interfaz               | Lenguaje de interfaz               | Lenguaje de interfaz               |              |
 | 3PM  | Lenguaje y  autómatas I            | Lenguaje y  autómatas I            | Lenguaje y  autómatas I            | Lenguaje y  autómatas I            | Lenguaje y  autómatas I           |
-| 4PM  | Graficación                        | Graficación                        | Graficación                        | Graficación                        | Graficación                       |
-| 5PM  | Taller de sistemas  operativos     | Taller de sistemas  operativos     | Taller de sistemas  operativos     | Taller de sistemas  operativos     | Taller de sistemas  operativos    |
+| 4PM  | Graficación                        | Graficación                        | Graficación                        | Graficación                        |                    |
+| 5PM  | Taller de sistemas  operativos     | Taller de sistemas  operativos     | Taller de sistemas  operativos     | Taller de sistemas  operativos     | |
 | 6PM  | L                                  | I                                  | B                                  | R                                  | E                                 |
-| 7PM  | Fundamentos de  telecomunicaciones | Fundamentos de  telecomunicaciones | Fundamentos de  telecomunicaciones | Fundamentos de  telecomunicaciones | Fundamentos de telecomunicaciones |
+| 7PM  | Fundamentos de  telecomunicaciones | Fundamentos de  telecomunicaciones | Fundamentos de  telecomunicaciones | Fundamentos de  telecomunicaciones |  |
 
 
