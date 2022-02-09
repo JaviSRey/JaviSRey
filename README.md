@@ -9,6 +9,8 @@ Here are some ideas to get you started:-->
 - 🌱 Actualmente estoy aprendiendo a programar
 - 😄 Pronombre: El
 
+Este es mi horario de clases:)
+
 | Hora | Lunes                              | Martes                             | Miercoles                          | Jueves                             | Viernes                           |
 |------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|-----------------------------------|
 | 1PM  | Administración de base de datos    | Administración de base de datos    | Administración de base de datos    | Administración de base de datos    | Administración de base de datos   |
